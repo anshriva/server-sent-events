@@ -24,3 +24,5 @@ There are two controllers added in server sent events
 <br> This is a ready-made library in java which is used for server sent events.
 <br> [FluxController.cs](src/main/java/com/anubhav/controller/FluxController.java)
 
+#### Illustration
+[![Video](resources/preview.png)](resources/server_sent_event.mp4)
